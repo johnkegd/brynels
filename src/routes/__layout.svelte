@@ -30,7 +30,7 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 40px;
+		color: white !important;
 	}
 
 	footer a {
